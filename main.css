@@ -28,7 +28,7 @@ img{
     display:grid;
     gap:4px;
     grid-template: 
-        "header" 200px
+        "header" 50px
         "navbar" 20px
         "aside" 20px
         "article"auto
